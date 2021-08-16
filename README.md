@@ -1,1 +1,1 @@
-# Students-marks-numbers-predictor
+# Students-marks-predictor
